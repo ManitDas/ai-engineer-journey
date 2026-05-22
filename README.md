@@ -12,4 +12,4 @@ Goal: On-campus placement, BTech MIT Manipal (Math & Computing)
 - [ ] Phase 5 — Interview Prep (Oct)
 - [ ] Phase 6 — Placement Sprint (Nov)
 
-## Day 2 - Learning Git Chapter 2
+## Day 2 : Learning Git Chapter 2
