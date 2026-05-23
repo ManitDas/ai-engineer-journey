@@ -18,6 +18,8 @@ ISRO Satellite Complete Dataset from Kaggle — 40 satellites, 30 features.
 - PSLV is the most used rocket (14 launches)
 - Launch activity peaked in 2016
 - Communications satellites are heaviest on average
+- Launch Mass and Power are almost perfectly correlated (0.98) — heavier satellites need more power
+- Communications satellites have significantly longer lifetimes (10-15 yrs) vs Earth Observation (5 yrs)
 
 ## Tools
 Python, Pandas, Matplotlib, Seaborn, Jupyter
